@@ -1,0 +1,32 @@
+{
+    "bugs": {
+        "web": "https://github.com/kevinparkerson/requirejs-tmpl/issues"
+    },
+    "categories": [
+        "Loader plugins"
+    ],
+    "description": "A RequireJS/AMD loader plugin for Handlebars templates.",
+    "github": "https://github.com/kevinparkerson/requirejs-tmpl",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        },
+        {
+            "type": "BSD New",
+            "url": "http://opensource.org/licenses/BSD-3-Clause"
+        }
+    ],
+    "main": "tmpl.js",
+    "name": "tmpl",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/kevinparkerson/requirejs-tmpl.git"
+        }
+    ],
+    "version": "1.0.0",
+    "volo": {
+        "url": "https://raw.github.com/kevinparkerson/requirejs-tmpl/{version}/tmpl.js"
+    }
+}
