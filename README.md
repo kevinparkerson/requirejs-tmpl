@@ -4,7 +4,7 @@ A RequireJS/AMD loader plugin for Handlebars templates.
 
 Known to work in RequireJS, but should work in other AMD loaders that support the same loader plugin API.
 
-This isn't my code, I am merely providing a home for it to live. Special thanks to @adamalex for creating this plugin.
+This isn't my code, I am merely providing a home for it to live. Special thanks to [Adam Alexander](https://github.com/adamalex) for creating this plugin.
 
 ## Docs
 
