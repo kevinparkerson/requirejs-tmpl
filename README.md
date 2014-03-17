@@ -8,11 +8,11 @@ This isn't my code, I am merely providing a home for it to live. Special thanks 
 
 ## Docs
 
-Coming Soon.
+Coming ~~Soon~~ Never.
 
 ### Usage
 
-Also Coming Soon.
+Also Coming ~~Soon~~ Never.
 
 ## License
 
@@ -20,7 +20,7 @@ Dual-licensed -- new BSD or MIT.
 
 ## Where are the tests?
 
-I didn't make them yet.
+I didn't make them.
 
 ## History
 
